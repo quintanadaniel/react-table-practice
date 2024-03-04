@@ -1,0 +1,46 @@
+{
+    "title": [
+        "01/01/2023",
+        "02/01/2023",
+        "03/01/2023",
+        "04/01/2023"
+    ],
+    "data": [
+        {
+            "Id Sucursal": 1,
+            "fechas": [
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        {
+            "Id Sucursal": 2,
+            "fechas": [
+                "Ingresado",
+                "Ingresado",
+                "Ingresado",
+                "Ingresado"
+            ]
+        },
+        {
+            "Id Sucursal": 3,
+            "fechas": [
+                null,
+                null,
+                null,
+                null
+            ]
+        },
+        {
+            "Id Sucursal": 4,
+            "fechas": [
+                "Ingresado",
+                "Ingresado",
+                "Ingresado",
+                "Ingresado"
+            ]
+        }
+    ]
+}
